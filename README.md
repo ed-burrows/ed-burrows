@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm Ed, a graduate software engineer based in Suffolk, UK. 
+
+My core language is Java, however I have experience in C++, Python, HTML/CSS and JavaScript.
 
 <!--
 **ed-burrows/ed-burrows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
