@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Ed, a graduate software engineer based in Suffolk, UK. 
+I'm Ed, a graduate software engineer based in Suffolk, United Kingdom. 
 
 My core language is Java, however I have experience in C++, Python, HTML/CSS and JavaScript.
 
